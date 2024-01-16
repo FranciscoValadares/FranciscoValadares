@@ -1,13 +1,12 @@
-### Hi there, one of my goals is, wherever I am, i gonna go create a positive impact through software development, delivering products and results that meet and exceed expectations.  👋
+### Hi there, I'm Francisco and I'm glad you're here.  😄👋
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://franciscovaladares.github.io/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fnrv/)
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoValadares&show_icons=true&theme=radical)
 
+### Stack of technologies that I use constantly
 
 <!--
 **FranciscoValadares/FranciscoValadares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
