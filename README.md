@@ -1,7 +1,6 @@
 ### Hi there, one of my goals is, wherever I am, i gonna go create a positive impact through software development, delivering products and results that meet and exceed expectations.  👋
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://franciscovaladares.github.io/)
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fnrv/)
 
  
